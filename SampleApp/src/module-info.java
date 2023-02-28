@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mazhe
- *
- */
-module SampleApp {
-}
