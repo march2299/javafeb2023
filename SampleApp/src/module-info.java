@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mazhe
+ *
+ */
+module SampleApp {
+}
